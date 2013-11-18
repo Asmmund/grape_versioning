@@ -14,8 +14,8 @@ Start app:
 1) run "thin start"
 
 2) check how it works, run :
-  curl 0.0.0.0:3000/foo
-  curl 0.0.0.0:3000/time
-  curl 0.0.0.0:3000/v2/bar
-  curl 0.0.0.0:3000/v2/time
+  `curl 0.0.0.0:3000/foo`
+  `curl 0.0.0.0:3000/time`
+  `curl 0.0.0.0:3000/v2/bar`
+  `curl 0.0.0.0:3000/v2/time`
 
